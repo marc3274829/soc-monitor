@@ -1,0 +1,2 @@
+# soc-monitor
+Python Project
