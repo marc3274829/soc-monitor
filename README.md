@@ -22,3 +22,16 @@ A Python-based Security Monitoring Dashboard designed to collect, analyse and vi
 
 □ Live dashboard
 
+# Tech Stack
+
+Python
+
+FastAPI
+
+PostgreSQL
+
+Docker
+
+Bootstrap
+
+Chart.js
