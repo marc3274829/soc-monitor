@@ -6,3 +6,19 @@ A Python-based Security Monitoring Dashboard designed to collect, analyse and vi
 
 # Features
 
+□ Log ingestion
+
+□ Authentication log parsing
+
+□ Event storage
+
+□ Alert generation
+
+□ Email alerts
+
+□ Docker deployment
+
+□ GeoIP lookup
+
+□ Live dashboard
+
