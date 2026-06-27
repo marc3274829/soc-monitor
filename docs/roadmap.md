@@ -1,4 +1,4 @@
-# Project Rosdmap
+# Project Roadmap
 
 ## Goal
 
@@ -26,4 +26,4 @@ Develop a Security Monitoring Dashboard capable of ingesting system logs, detect
 - [ ] Read sample log files
 - [ ] Parse log entries
 - [ ] Validate parsed data
-- [ ] Handle malformedd log entries
+- [ ] Handle malformed log entries
