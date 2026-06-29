@@ -10,6 +10,6 @@ def read_logs(file_path):
     """
 
     with open(file_path, "r") as file:
-        lines= file.readlines()
+        lines = [line.strip() for line in file]
 
     return lines
