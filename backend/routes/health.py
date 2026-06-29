@@ -2,8 +2,8 @@ from flask import Blueprint
 
 health_bp = Blueprint("health", __name__)
 
-@health_bp.route("/")
-def home():
+@health_bp.route("/health")
+def get_health():
         return {
-                "message": "Backend is running"
+                "status": "running"
         }
