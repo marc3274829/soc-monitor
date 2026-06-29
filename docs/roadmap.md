@@ -15,9 +15,9 @@ Develop a Security Monitoring Dashboard capable of ingesting system logs, detect
 
 # Phase 2 - Backend Foundation
 
-- [ ] Create Flash application
+- [X] Create Flash application
 - [ ] Organise backend into modules
-- [ ] Configure application settings
+- [X] Configure application settings
 - [ ] Create REST API structure
 
 
